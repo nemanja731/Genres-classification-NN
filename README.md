@@ -8,4 +8,4 @@ There are 3 classes:
 - **Rap**
 - **RnB**
 
-The goal is to find the best neural network, that is, the neural network with the best parameters for classifying the mentioned problem.
+The goal is, depending on different hyperparameter values, to find the best neural network, that is, the neural network with the best parameters for classifying the mentioned problem.
